@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World, I am Wilfred Adu Otabil<br>👯 I’m looking to collaborate on ML, Deep Learning, and CV projects<br>🤝 I’m looking for help with<br>🌱 Still learning and strengthening my knowledge in these fields<br>⚡ look here, if you want commitment
+Hello World, I am Wilfred Adu Otabil<br>👯 I’m looking to collaborate on ML, Deep Learning, and CV projects<br>🌱 Still learning and strengthening my knowledge in these fields<br>⚡ look here, if you want commitment
 
 
 ## 🌐 Socials:
