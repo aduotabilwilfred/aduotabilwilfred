@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=I%20am%20into%20ML%2C%20DL%2C%20CV%2C%20and%20Backend%20Development.%20Also%20learning%20Backend%20Development;Kaizen!!!" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=I%20am%20into%20ML%2C%20DL%2C%20CV%2C%20and%20Backend%20Development.%20Also%20learning%20Backend%20Development;KAIZEN!!!" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
