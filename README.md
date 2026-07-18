@@ -51,11 +51,8 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aduotabilwilfred&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/aduotabilwilfred">aduotabilwilfred</a></i></p>
