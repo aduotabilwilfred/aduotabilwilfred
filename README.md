@@ -51,10 +51,12 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aduotabilwilfred&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/aduotabilwilfred/aduotabilwilfred/output/github-contribution-grid-snake-dark.svg" />
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 ### ✍️ Random Dev Quote
