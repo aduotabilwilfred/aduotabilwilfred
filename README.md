@@ -51,20 +51,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aduotabilwilfred&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-🏅 GitHub Trophies
-
-<div align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=aduotabilwilfred&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
-
-📈 Contribution Activity
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aduotabilwilfredE&bg_color=0D1117&color=A855F7&line=7C3AED&point=ffffff&area=true&hide_border=true" />
-</div>
-
-
 🐍 Contribution Snake
 
 <div align="center">
