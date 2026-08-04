@@ -60,7 +60,7 @@
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/aduotabilwilfred">aduotabilwilfred</a></i></p>
