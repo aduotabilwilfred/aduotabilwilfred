@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **World Cup Player Prediction, WillFlow (An AI powered app to build one's confidence in social conversations)**  
+🔭 &nbsp;I'm currently working on **World Cup Player Performance Prediction, WillFlow (An AI powered app to build one's confidence in social conversations)**  
 🌱 &nbsp;I'm currently learning **Javascript backend development, MLOps, Linux (via WSL), and how to build LLMs from scratch**  
 👯 &nbsp;I'm looking to collaborate on **Anything ML, DL, or applied AI / computer vision projects (YOLO, OpenCV)**  
 🤔 &nbsp;I'm looking for help with **balancing multiple side projects alongside a CS degree 😅**  
